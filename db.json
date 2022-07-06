@@ -1,6 +1,4 @@
 {
-  "ret_code": "0",
-  "ret_msg": "ok",
   "white_list": {
     "spgateway": false,
     "gold_order_mycard": false,
