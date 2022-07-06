@@ -1,24 +1,14 @@
 {
-  "user": [
-    {
-      "id": "1",
-      "name": "David",
-      "birthDay": "2001/04/19"
-    },
-    {
-      "id": "2",
-      "name": "Leo",
-      "birthDay": "2001/12/19"
-    },
-    {
-      "id": "3",
-      "name": "Tina",
-      "birthDay": "1991/03/29"
-    },
-    {
-      "id": "4",
-      "name": "Wang",
-      "birthDay": "2001/04/19"
-    }
-  ]
+  "ret_code": "0",
+  "ret_msg": "ok",
+  "white_list": {
+    "spgateway": false,
+    "gold_order_mycard": false,
+    "paypal": false,
+    "ecpay": false,
+    "fun_point": false,
+    "osjk": false,
+    "gold_order": false,
+    "doufu": false
+  }
 }
