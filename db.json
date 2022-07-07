@@ -1,12 +1,12 @@
 {
   "white_list": {
-    "spgateway": false,
-    "gold_order_mycard": false,
-    "paypal": false,
-    "ecpay": false,
-    "fun_point": false,
-    "osjk": false,
-    "gold_order": false,
-    "doufu": false
+    "0": false,
+    "1": false,
+    "2": false,
+    "3": false,
+    "4": false,
+    "5": false,
+    "6": false,
+    "7": false
   }
 }
