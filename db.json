@@ -1,22 +1,22 @@
 {
   "rechargeWhitelist": {
     "rechargeWhitelist": {
-    "0": true,
-    "1": true,
-    "2": true,
-    "3": false,
-    "4": false,
-    "5": true,
-    "6": true,
-    "7": true
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": false,
+      "4": false,
+      "5": true,
+      "6": true,
+      "7": true
     }
   },
   "memberWhitelist": {
-  "memberWhitelist": {
-    "0": true,
-    "2": true,
-    "5": true,
-    "6": true,
+    "memberWhitelist": {
+      "0": true,
+      "2": true,
+      "5": true,
+      "6": true
     }
   }
 }
