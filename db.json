@@ -1,5 +1,6 @@
 {
   "rechargeWhitelist": {
+    "rechargeWhitelist": {
     "0": true,
     "1": true,
     "2": true,
@@ -8,5 +9,14 @@
     "5": true,
     "6": true,
     "7": true
+    }
+  },
+  "memberWhitelist": {
+  "memberWhitelist": {
+    "0": true,
+    "2": true,
+    "5": true,
+    "6": true,
+    }
   }
 }
