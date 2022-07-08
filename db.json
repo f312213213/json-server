@@ -13,8 +13,8 @@
   },
   "memberWhitelist": {
     "memberWhitelist": {
-      "0": true,
-      "5": true
+      "5": true,
+      "6": true
     }
   }
 }
